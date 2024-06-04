@@ -1,12 +1,12 @@
-# DDOS-BOMBER About
+# SafeUM About
 
 
-#### DDOS-BOMBER INSTALLATION AND RUN :- 
+#### SAFEUM Account Creator INSTALLATION AND RUN :- 
 
 
 ## Usage:
 
-Run these commands to run DDOS-BOMBER
+Run these commands to run SafeUm Script 
 
 
 
