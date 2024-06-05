@@ -36,7 +36,9 @@ chmod +x safeum_by_h4k3r.py
 ```
 ```
 python safeum_by_h4k3r.py
-
+```
+```
+h4k3r
 ```
 ## > For Linux:
 
